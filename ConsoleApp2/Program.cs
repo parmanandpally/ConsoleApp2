@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to .NET Framework Appls");
+            Console.WriteLine("Cloned Version from another Visual Studio");
         }
     }
 }
