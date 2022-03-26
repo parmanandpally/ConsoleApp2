@@ -13,6 +13,7 @@ namespace ConsoleApp2
             Console.WriteLine("Welcome to .NET Framework Appls");
             Console.WriteLine("Cloned Version from another Visual Studio");
             Console.WriteLine("One more addition in original project");
+            Console.WriteLine("Addition made thru the cloned copy of ConsoleApp2");
         }
     }
 }
